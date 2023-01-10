@@ -23,11 +23,11 @@ KAIST AI대학원 교수
 ---
 
 ## 목차
-[1. 선형대수의 기초(Elements in linear algebra)](#1-선형대수의-기초elements-in-linear-algebra)
-[2. 선형시스템 및 선형변환(Linear Systems and Linear Transformation)](#2-선형시스템-및-선형변환linear-systems-and-linear-transformation)
-[3. 최소제곱문제(Least Squares Problem)](#3-최소제곱문제least-squares-problem)
-[4. 고유값 분해](#4-고유값-분해)
-[5. 특이값 분해](#5-특이값-분해)
+[1. 선형대수의 기초(Elements in linear algebra)](#1-선형대수의-기초elements-in-linear-algebra)  
+[2. 선형시스템 및 선형변환(Linear Systems and Linear Transformation)](#2-선형시스템-및-선형변환linear-systems-and-linear-transformation)  
+[3. 최소제곱문제(Least Squares Problem)](#3-최소제곱문제least-squares-problem)  
+[4. 고유값 분해](#4-고유값-분해)  
+[5. 특이값 분해](#5-특이값-분해)  
 
 ---
 
